@@ -1,2 +1,2 @@
-# Python
-Python exercises
+# Blackjack
+Blackjack card game in Python
