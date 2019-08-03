@@ -159,7 +159,7 @@ def WinGame(playerWinner, playerloser):
     print(playerWinner.name + " WON!!!\n")
 
 
-def main():
+def PlayGame():
     playOn = True
 
     print("Lets play BlackJack!!")
@@ -253,5 +253,5 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    PlayGame()
 
